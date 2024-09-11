@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "66e0629fd4eac50f0fc0e5c1"
+  },
+  "nombre": "Alonso",
+  "apellido": "Dominguez López",
+  "correo": "alonsod@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e062c3d4eac50f0fc0e5c2"
+  },
+  "nombre": "Brandon Enrique",
+  "apellido": "Hernandez Martínez",
+  "correo": "brandonhermart@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e062f9d4eac50f0fc0e5c3"
+  },
+  "nombre": "Jose Sebastian",
+  "apellido": "Colin Becerra",
+  "correo": "josesebasc@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e063e1d4eac50f0fc0e5c4"
+  },
+  "nombre": "Edqin Caleb",
+  "apellido": "Trejo Aguiñaga",
+  "correo": "calebta@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e06431d4eac50f0fc0e5c5"
+  },
+  "nombre": "Yave",
+  "apellido": "Vargas Marquez",
+  "correo": "yavev11@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0649ed4eac50f0fc0e5c6"
+  },
+  "nombre": "Guillermo",
+  "apellido": "Ordaz Rodriguez",
+  "correo": "guilleor_21@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e0659ed4eac50f0fc0e5c7"
+  },
+  "nombre": "Gregorio",
+  "apellido": "Díaz Torres",
+  "correo": "gegodit@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e065cbd4eac50f0fc0e5c8"
+  },
+  "nombre": "Marta",
+  "apellido": "Cardona Serna",
+  "correo": "martaCS@hotmail.com"
+},
+{
+  "_id": {
+    "$oid": "66e06649d4eac50f0fc0e5c9"
+  },
+  "nombre": "Leticia",
+  "apellido": "Velazquez Ojeda",
+  "correo": "leti18@gmail.com"
+}]

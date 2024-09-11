@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66e06239d4bc21f2b6ee6a5a"
+  },
+  "nombre": "Limpieza del Hogar",
+  "descripcion": "Productos dedicados a la limpieza y mantenimiento de la casa, incluyendo detergentes, limpiadores y desinfectantes."
+},
+{
+  "_id": {
+    "$oid": "66e062c4d4bc21f2b6ee6a5b"
+  },
+  "nombre": "Cuidado Personal",
+  "descripcion": "Artículos destinados a la higiene personal, como shampoo, jabones, desodorantes y productos para el cuidado de la piel."
+},
+{
+  "_id": {
+    "$oid": "66e062d8d4bc21f2b6ee6a5c"
+  },
+  "nombre": "Alimentos Básicos",
+  "descripcion": "Productos alimenticios de primera necesidad, como arroz, frijol, harina, azúcar y aceites comestibles."
+},
+{
+  "_id": {
+    "$oid": "66e062e9d4bc21f2b6ee6a5d"
+  },
+  "nombre": "Bebidas",
+  "descripcion": "Categoría de bebidas como agua, jugos, refrescos, café y té."
+},
+{
+  "_id": {
+    "$oid": "66e062f8d4bc21f2b6ee6a5e"
+  },
+  "nombre": "Snacks y Botanas",
+  "descripcion": "Productos de consumo rápido, como papas fritas, galletas, dulces y chocolates."
+},
+{
+  "_id": {
+    "$oid": "66e06321d4bc21f2b6ee6a5f"
+  },
+  "nombre": "Lácteos",
+  "descripcion": "Categoría que incluye leche, yogures, quesos y otros derivados lácteos."
+},
+{
+  "_id": {
+    "$oid": "66e0633cd4bc21f2b6ee6a60"
+  },
+  "nombre": "Cereales y Granos",
+  "descripcion": "Productos como avena, maíz, trigo, arroz y otros granos para el consumo diario."
+},
+{
+  "_id": {
+    "$oid": "66e0634fd4bc21f2b6ee6a61"
+  },
+  "nombre": "Higiene del Hogar",
+  "descripcion": "Productos para la higiene y cuidado del hogar, como papel higiénico, toallas de cocina y servilletas."
+},
+{
+  "_id": {
+    "$oid": "66e0635fd4bc21f2b6ee6a62"
+  },
+  "nombre": "Cuidado Infantil",
+  "descripcion": "Artículos especializados en el cuidado y bienestar de los bebés y niños, como pañales, toallitas húmedas y alimentos infantiles."
+},
+{
+  "_id": {
+    "$oid": "66e0636dd4bc21f2b6ee6a63"
+  },
+  "nombre": "Mascotas",
+  "descripcion": "Productos para el cuidado de mascotas, incluyendo alimentos, juguetes y artículos de higiene."
+}]

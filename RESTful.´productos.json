@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "66e05ec0d4bc21f2b6ee6a4c"
+  },
+  "nombre": "Shampoo de Mango",
+  "descripcion": "Shampoo de hecho de mango natural",
+  "precio": 150.99,
+  "stock": 626
+},
+{
+  "_id": {
+    "$oid": "66e05fadd4bc21f2b6ee6a4d"
+  },
+  "nombre": "Leche Entera Sebati",
+  "descripcion": "Leche entera 100% de vaca blanca",
+  "precio": 30.25,
+  "stock": 250
+},
+{
+  "_id": {
+    "$oid": "66e06083d4bc21f2b6ee6a4e"
+  },
+  "nombre": "Papel Higiénico Brenda",
+  "descripcion": "Papel higiénico de 500 hojas marca Brenda de 25 rollos",
+  "precio": 250.65,
+  "stock": 42
+},
+{
+  "_id": {
+    "$oid": "66e0610bd4bc21f2b6ee6a4f"
+  },
+  "nombre": "Detergente Ultra Clean",
+  "descripcion": "Detergente en polvo Ultra Clean de 5 kg para lavado de ropa",
+  "precio": 150.99,
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "66e0612ad4bc21f2b6ee6a50"
+  },
+  "nombre": "Shampoo BioHerbal",
+  "descripcion": "Shampoo de extracto de hierbas BioHerbal de 750 ml",
+  "precio": 85.5,
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "66e0615ad4bc21f2b6ee6a52"
+  },
+  "nombre": "Arroz Grano Oro",
+  "descripcion": "Arroz blanco marca Grano Oro en presentación de 1 kg",
+  "precio": 27.3,
+  "stock": 100
+},
+{
+  "_id": {
+    "$oid": "66e0616ed4bc21f2b6ee6a53"
+  },
+  "nombre": "Aceite Cocina Sabroso",
+  "descripcion": "Aceite vegetal para cocinar marca Sabroso de 1 litro",
+  "precio": 45.2,
+  "stock": 60
+},
+{
+  "_id": {
+    "$oid": "66e06185d4bc21f2b6ee6a54"
+  },
+  "nombre": "Cereal ChocoFlakes",
+  "descripcion": "Cereal con sabor a chocolate marca ChocoFlakes en caja de 400 g",
+  "precio": 32.99,
+  "stock": 80
+},
+{
+  "_id": {
+    "$oid": "66e06199d4bc21f2b6ee6a55"
+  },
+  "nombre": "Jabón Líquido PureFresh",
+  "descripcion": "Jabón líquido antibacterial PureFresh para manos, botella de 500 ml",
+  "precio": 65.8,
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "66e061acd4bc21f2b6ee6a56"
+  },
+  "nombre": "Toallas de Cocina MaxDry",
+  "descripcion": "Paquete de 3 toallas de cocina ultra absorbentes marca MaxDry",
+  "precio": 58.75,
+  "stock": 20
+}]

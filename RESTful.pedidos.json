@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "66e06608d4bc21f2b6ee6a69"
+  },
+  "fecha": {
+    "$date": "2024-09-01T00:00:00.000Z"
+  },
+  "total": 500.35,
+  "productos": [
+    "Detergente Ultra Clean",
+    "Papel Higiénico Brenda",
+    "Shampoo BioHerbal"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e0676bd4bc21f2b6ee6a6a"
+  },
+  "fecha": {
+    "$date": "2024-09-02T00:00:00.000Z"
+  },
+  "total": 249.48,
+  "productos": [
+    "Cereal ChocoFlakes",
+    "Aceite Cocina Sabroso",
+    "Arroz Grano Oro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06799d4bc21f2b6ee6a6b"
+  },
+  "fecha": {
+    "$date": "2024-09-03T00:00:00.000Z"
+  },
+  "total": 495.3,
+  "productos": [
+    "Shampoo BioHerbal",
+    "Jabón Líquido PureFresh",
+    "Cereal ChocoFlakes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06810d4bc21f2b6ee6a6c"
+  },
+  "fecha": {
+    "$date": "2024-09-04T00:00:00.000Z"
+  },
+  "total": 327.85,
+  "productos": [
+    "Arroz Grano Oro",
+    "Toallas de Cocina MaxDry",
+    "Detergente Ultra Clean",
+    "Shampoo de Mango",
+    "Cereal ChocoFlakes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06855d4bc21f2b6ee6a6d"
+  },
+  "fecha": {
+    "$date": "2024-09-05T00:00:00.000Z"
+  },
+  "total": 578.7,
+  "productos": [
+    "Paoel Higienico Brenda",
+    "Aceite Cocina Sabroso",
+    "Detergente Ultra Clean",
+    "Cereal ChocoFlakes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06944d4bc21f2b6ee6a70"
+  },
+  "fecha": {
+    "$date": "2024-09-06T00:00:00.000Z"
+  },
+  "total": 600.88,
+  "productos": [
+    "Shampoo de Mango",
+    "Leche Entera Sebati",
+    "Cereal ChocoFlakes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06968d4bc21f2b6ee6a71"
+  },
+  "fecha": {
+    "$date": "2024-09-07T00:00:00.000Z"
+  },
+  "total": 720.55,
+  "productos": [
+    "Shampoo BioHerbal",
+    "Leche Entera Sebati",
+    "Leche Entera Sebati"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e069aed4bc21f2b6ee6a72"
+  },
+  "fecha": {
+    "$date": "2024-09-08T00:00:00.000Z"
+  },
+  "total": 811.65,
+  "productos": [
+    "Detergente Ultra Clean",
+    "Papel Higiénico Brenda",
+    "Aceite Cocina Sabroso",
+    "Arroz Grano Oro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06a66d4bc21f2b6ee6a73"
+  },
+  "fecha": {
+    "$date": "2024-09-09T00:00:00.000Z"
+  },
+  "total": 436.89,
+  "productos": [
+    "Cereal ChocoFlakes",
+    "Shampoo de Mango",
+    "Leche Entera Sebati"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e06ac8d4bc21f2b6ee6a76"
+  },
+  "fecha": {
+    "$date": "2024-09-10T00:00:00.000Z"
+  },
+  "total": 436.89,
+  "productos": [
+    "Toallas de Cocina MaxDry",
+    "Jabón Líquido PureFresh"
+  ]
+}]
